@@ -1,6 +1,6 @@
 # table-answerer 
 
-OpenAPI spec is available at [./api/openapi.json](./api/openapi.json)
+OpenAPI spec is available at [./api/openapi.json](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/k0marov/table-answerer/refs/heads/main/api/openapi.json)
 
 ### Running
 
